@@ -8,3 +8,6 @@ class Solution(object):
             else:
                 buy = sell
         return profit 
+
+#Leetcode Problem : 121
+#To Calculate the maximum Profit 
