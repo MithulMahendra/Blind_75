@@ -7,3 +7,6 @@ class Solution:
                 diff_set[n]=i
             else:
                 return [i, diff_set[diff]]
+
+#Leetcode Problem : 1
+#Use Hashmap.
