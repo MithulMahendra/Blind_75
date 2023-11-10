@@ -22,3 +22,5 @@ class Solution:
         return head.next
 
         
+#Leetcode Problem : 21
+#Simply create an dummy linkedlist and change the next pointer of it to list1 or list2 based on whichever element in it is smaller.
