@@ -8,3 +8,6 @@ class Solution:
             elif len(stack)==0 or bracket!=pairs[stack.pop()]:
                 return False
         return len(stack)==0
+
+#Leetcode Problem : 20
+
